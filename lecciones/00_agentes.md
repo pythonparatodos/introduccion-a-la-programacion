@@ -10,7 +10,7 @@ Con este mismo pensamiento en mente, diré que un programa, es otro agente, est�
 
 Una de las cosas muy importantes es que los agentes saben hacer ciertas cosas y otras no, por ejemplo, no le podemos pedir a una ventana que vaya a patinar, a un cable que nos cocine unos deliciosos spaguettis, o a un carro sin motor que arranque, estos ejemplos son un poco obvios, pero me gusta resaltar que si los programas no están diseñados para realizar ciertas acciones no las harán, o si les falta algo no funcionarán. A diferencia de nosotros los seres humanos, que si nos falta algo para realizar una acción lo buscamos o si no sabemos preguntamos, los programas son realmente agentes mas bien simples y la manera de expresar que no saben o no pueden es mostrando un error.
 
-Algo así como este perrito que no sabe como decirle a su amo que no quiere  salir a pasear.
+Algo así como este perrito, que no sabe como decirle a su amo que no quiere salir a pasear.
 
 ![pos me muero](../img/pos_me_muero.jpg)
 Tomada de [Meme Crunch](https://memecrunch.com/meme/2PP97/pos-me-muero)
